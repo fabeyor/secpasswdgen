@@ -1,5 +1,5 @@
 # secpasswdgen
 A simple Bash Random Password Generator
 
-#Usage
+# Usage:\n
 bash secpasswdgen.sh
